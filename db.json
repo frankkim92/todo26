@@ -1,0 +1,37 @@
+{
+  "todoList": [
+    {
+      "id": "nanoid",
+      "todoListTitle": "string",
+      "user": "string",
+      "todoListPw": "string"
+    },
+    {
+      "id": "nanoid",
+      "todoListTitle": "string",
+      "user": "string",
+      "todoListPw": "string"
+    }
+  ],
+  "todos": [
+    {
+      "id": "U18_whSoxDgiObwRpuZf6",
+      "todoTitle": "",
+      "isDone": false
+    }
+  ],
+  "comments": [
+    {
+      "id": "nanoid",
+      "commenter": "string",
+      "comment": "string",
+      "commentPw": "string"
+    },
+    {
+      "id": "nanoid",
+      "commenter": "string",
+      "comment": "string",
+      "commentPw": "string"
+    }
+  ]
+}
